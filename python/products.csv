@@ -1,0 +1,501 @@
+product_id,product_name
+1,Zara Women's Jacket (New Edition)
+2,Sony WH-1000XM5 Headphones
+3,Organic Basmati Rice 5kg
+4,Nike Running Shoe (New Edition)
+5,Aashirvaad Atta 10kg
+6,Bru Instant Coffee 200g (New Edition)
+7,Nike Running Shoe
+8,Zara Women's Jacket
+9,Tata Salt 1kg
+10,Fortune Sunflower Oil 1L (New Edition)
+11,Ray-Ban Aviator Sunglasses (New Edition)
+12,Apple iPhone 13
+13,Amul Butter 500g
+14,Adibas Sports T-Shirt
+15,Zara Women's Jacket (New Edition)
+16,Ray-Ban Aviator Sunglasses
+17,Fortune  Sunflower  Oil  1L
+18,Apple  iPhone  14
+19,Zara Women's Jacket
+20,Nike Running Shoes
+21,Tata Salt 1kg
+22,Boat Rockerz 450
+23,Boat Rockerz 450
+24,Puma Casual Sneakers (New Edition)
+25,Nike Running Shoe
+26,Tata Salt 1kg (New Edition)
+27,Fortune Sunflower Oill 1L (New Edition)
+28,Nike Running Shoes
+29,Apple iPhone 13
+30,Nike Running Shoe (New Edition)
+31,Sony WH-1000XM5 Headphones
+32,Redmi Note 12
+33,Nike Running Shoe
+34,Zara Women's Jacket
+35,Samsung Galaxy S21
+36,Zara Women's Jacket
+37,H&M Cotton Shirt
+38,Redmi  Note  12
+39,Samsung Galaxy S22 Ultra
+40,OnePlus 11 (New Edition)
+41,Nike Running Shoes
+42,Apple iPhone 14 Pro
+43,Sony WH-1000XM5 Headphones
+44,H&M Cotton Shirt
+45,Nike Running Shoe
+46,Nescafe Classic Coffee 200g (New Edition)
+47,Fortune Sunflower Oill 1L
+48,Apple iPhone 13
+49,H&M Cotton Shirt
+50,Apple iPhone 13
+51,Zara Women's Jacket
+52,Nike Running Shoe
+53,Adibas Sports T-Shirt (New Edition)
+54,Nike Running Shoe
+55,Apple iPhone 13
+56,Samzung Galaxy S21
+57,Puma  Casual  Sneakers
+58,Boat Rockerz 450
+59,Ray-Ban Aviator Sunglasses
+60,Samzung Galaxy S21
+61,Apple iPhone 14 (New Edition)
+62,Fortune Sunflower Oill 1L
+63,Organic Basmati Rice 5kg
+64,Tata Salt 1kg
+65,Nike Running Shoe
+66,Adidas Sports T-Shirt
+67,Adibas Sports T-Shirt
+68,Amul Butter 500g
+69,Fortune Sunflower Oill 1L
+70,Samsung Galaxy S22 Ultra (New Edition)
+71,Fortune Sunflower Oill 1L
+72,Adidas Sports T-Shirt
+73,H&M Cotton Shirt
+74,Apple iPhone 14
+75,Bru Instant Coffee 200g
+76,Aashirvaad Atta 10kg (New Edition)
+77,H&M Cotton Shirt
+78,Nike Running Shoes
+79,Tata Salt 1kg
+80,Nescafe Classic Coffee 200g
+81,Samzung Galaxy S21
+82,Adidas Sports T-Shirt
+83,Nescafe Classic Coffee 200g
+84,Adibas Sports T-Shirt
+85,Basmati Rice 5 kg
+86,Bru Instant Coffee 200g
+87,Basmati Rice 5 kg
+88,Fortune Sunflower Oill 1L
+89,Redmi Note 12
+90,Sony WH-1000XM5 Headphones
+91,OnePlus 11
+92,Apple iPhone 13
+93,Redmi Note 12
+94,Puma Casual Sneakers
+95,H&M Cotton Shirt (New Edition)
+96,Apple iPhone 13
+97,H&M Cotton Shirt
+98,Samsung Galaxy S21 (New Edition)
+99,Fortune Sunflower Oil 1L (New Edition)
+100,Nike Running Shoe
+101,Ray-Ban Aviator Sunglasses
+102,Samsung Galaxy S22 Ultra
+103,Samsung Galaxy S22 Ultra (New Edition)
+104,H&M Cotton Shirt
+105,Amul Butter 500g (New Edition)
+106,Redmi Note 12
+107,Nescafe Classic Coffee 200g
+108,Apple iPhone 14 Pro (New Edition)
+109,Boat Rockerz 450 (New Edition)
+110,Amul Butter 500g
+111,Redmi Note 12
+112,Fortune Sunflower Oil 1L
+113,Samsung Galaxy S22 Ultra
+114,Boat Rockerz 450 (New Edition)
+115,Zara Women's Jacket (New Edition)
+116,Sony WH-1000XM5 Headphones
+117,Puma Casual Sneakers
+118,Boat Rockerz 450
+119,Nescafe Classic Coffee 200g
+120,Fortune Sunflower Oil 1L
+121,Samsung Galaxy S21 (New Edition)
+122,Samsung Galaxy S21
+123,Aashirvaad Atta 10kg (New Edition)
+124,Apple iPhone 13
+125,Aashirvaad Atta 10kg
+126,Nescafe Classic Coffee 200g
+127,Basmati Rice 5 kg (New Edition)
+128,Fortune Sunflower Oill 1L
+129,Ray-Ban Aviator Sunglasses
+130,Nike  Running  Shoes
+131,Samsung Galaxy S21
+132,Fortune Sunflower Oil 1L
+133,Basmati Rice 5 kg (New Edition)
+134,Nescafe Classic Coffee 200g (New Edition)
+135,Amul Butter 500g
+136,Zara Women's Jacket
+137,Levi's Slim Fit Jeans (New Edition)
+138,Ray-Ban Aviator Sunglasses
+139,OnePlus 11
+140,Apple iPhone 13
+141,OnePlus 11
+142,Basmati Rice 5 kg
+143,Boat Rockerz 450
+144,Amul Butter 500g
+145,Sony WH-1000XM5 Headphones
+146,Puma Casual Sneakers
+147,Aashirvaad Atta 10kg (New Edition)
+148,Nike Running Shoe
+149,Tata Salt 1kg
+150,Apple iPhone 13 (New Edition)
+151,Samzung Galaxy S21
+152,Redmi Note 12 (New Edition)
+153,Bru Instant Coffee 200g
+154,Apple iPhone 14 Pro
+155,Adibas Sports T-Shirt
+156,Fortune Sunflower Oill 1L
+157,Organic Basmati Rice 5kg
+158,Samzung Galaxy S21
+159,Boat Rockerz 450
+160,Sony WH-1000XM5 Headphones
+161,Amul Butter 500g
+162,Tata Salt 1kg
+163,Adibas Sports T-Shirt
+164,Adidas Sports T-Shirt (New Edition)
+165,Bru Instant Coffee 200g
+166,OnePlus 11
+167,H&M Cotton Shirt (New Edition)
+168,Nike Running Shoes
+169,Adibas  Sports  T-Shirt
+170,Adidas Sports T-Shirt
+171,Adidas Sports T-Shirt (New Edition)
+172,Tata Salt 1kg
+173,Fortune Sunflower Oil 1L
+174,H&M Cotton Shirt (New Edition)
+175,Adibas Sports T-Shirt
+176,Apple iPhone 14
+177,Levi's Slim Fit Jeans
+178,Apple iPhone 13
+179,Sony WH-1000XM5 Headphones
+180,Redmi Note 12
+181,Apple iPhone 14 Pro
+182,Aashirvaad Atta 10kg
+183,Adibas Sports T-Shirt
+184,Puma Casual Sneakers
+185,Adibas Sports T-Shirt (New Edition)
+186,Apple iPhone 14 Pro
+187,Apple iPhone 13
+188,Basmati Rice 5 kg
+189,Samzung  Galaxy  S21
+190,Amul Butter 500g
+191,Samsung Galaxy S21
+192,Apple iPhone 13
+193,Amul Butter 500g
+194,Adibas Sports T-Shirt
+195,Bru Instant Coffee 200g
+196,Nike Running Shoe
+197,Basmati Rice 5 kg (New Edition)
+198,Apple iPhone 14
+199,Organic Basmati Rice 5kg (New Edition)
+200,Ray-Ban Aviator Sunglasses
+201,Adidas Sports T-Shirt (New Edition)
+202,Amul Butter 500g
+203,Redmi Note 12
+204,H&M Cotton Shirt
+205,Fortune  Sunflower  Oil  1L
+206,Samzung  Galaxy  S21
+207,Apple iPhone 13
+208,Basmati Rice 5 kg
+209,Tata Salt 1kg
+210,Aashirvaad Atta 10kg
+211,Basmati Rice 5 kg
+212,Organic Basmati Rice 5kg
+213,Levi's Slim Fit Jeans
+214,Fortune Sunflower Oill 1L
+215,Nescafe Classic Coffee 200g
+216,Apple iPhone 14 Pro
+217,H&M Cotton Shirt (New Edition)
+218,Fortune Sunflower Oill 1L
+219,Nike Running Shoe
+220,Apple iPhone 14 Pro
+221,Levi's Slim Fit Jeans (New Edition)
+222,Puma Casual Sneakers
+223,Zara Women's Jacket
+224,Adibas Sports T-Shirt
+225,Boat Rockerz 450
+226,Apple iPhone 14
+227,Organic Basmati Rice 5kg
+228,Redmi Note 12 (New Edition)
+229,Apple iPhone 14 (New Edition)
+230,Sony WH-1000XM5 Headphones
+231,Organic Basmati Rice 5kg
+232,Nike Running Shoes
+233,Samzung  Galaxy  S21
+234,Nescafe Classic Coffee 200g
+235,Aashirvaad Atta 10kg
+236,Fortune Sunflower Oil 1L
+237,Amul Butter 500g
+238,Samzung Galaxy S21
+239,H&M Cotton Shirt
+240,Fortune Sunflower Oill 1L
+241,Samzung Galaxy S21
+242,Boat Rockerz 450
+243,Nike Running Shoes
+244,Redmi Note 12 (New Edition)
+245,Bru Instant Coffee 200g
+246,Adibas Sports T-Shirt (New Edition)
+247,Fortune Sunflower Oil 1L (New Edition)
+248,Nescafe Classic Coffee 200g
+249,Levi's Slim Fit Jeans (New Edition)
+250,Fortune Sunflower Oill 1L
+251,Levi's Slim Fit Jeans (New Edition)
+252,Adidas Sports T-Shirt (New Edition)
+253,Zara Women's Jacket
+254,Levi's Slim Fit Jeans (New Edition)
+255,Apple iPhone 14 Pro
+256,Apple iPhone 14
+257,Zara Women's Jacket
+258,Redmi Note 12
+259,Samsung Galaxy S21
+260,Nike Running Shoes
+261,Adibas  Sports  T-Shirt
+262,Nescafe Classic Coffee 200g
+263,Ray-Ban Aviator Sunglasses (New Edition)
+264,Fortune Sunflower Oil 1L
+265,Sony WH-1000XM5 Headphones (New Edition)
+266,Samzung Galaxy S21 (New Edition)
+267,Sony WH-1000XM5 Headphones
+268,Basmati Rice 5 kg
+269,Zara Women's Jacket
+270,Nescafe Classic Coffee 200g
+271,Adidas Sports T-Shirt
+272,Samzung Galaxy S21
+273,Zara Women's Jacket
+274,Amul Butter 500g
+275,Nescafe Classic Coffee 200g
+276,Ray-Ban Aviator Sunglasses
+277,Organic Basmati Rice 5kg (New Edition)
+278,Levi's Slim Fit Jeans (New Edition)
+279,Basmati Rice 5 kg
+280,Nescafe Classic Coffee 200g
+281,Basmati Rice 5 kg (New Edition)
+282,OnePlus 11
+283,Samzung Galaxy S21
+284,Fortune Sunflower Oill 1L (New Edition)
+285,H&M Cotton Shirt
+286,Apple iPhone 13
+287,Fortune Sunflower Oil 1L
+288,Aashirvaad  Atta  10kg
+289,Basmati Rice 5 kg
+290,Nike Running Shoes
+291,Nike  Running  Shoes
+292,OnePlus 11
+293,Basmati Rice 5 kg
+294,Adibas Sports T-Shirt
+295,Apple iPhone 13
+296,Apple iPhone 14 Pro
+297,Samzung Galaxy S21
+298,Apple iPhone 14 Pro
+299,Adidas Sports T-Shirt
+300,Puma Casual Sneakers
+301,Nike Running Shoe
+302,Levi's Slim Fit Jeans
+303,Puma Casual Sneakers (New Edition)
+304,Bru Instant Coffee 200g
+305,Apple iPhone 14 Pro
+306,Organic Basmati Rice 5kg (New Edition)
+307,Samzung Galaxy S21
+308,Levi's Slim Fit Jeans
+309,Adibas Sports T-Shirt
+310,Adidas Sports T-Shirt (New Edition)
+311,Samsung Galaxy S22 Ultra
+312,Puma Casual Sneakers
+313,Adibas Sports T-Shirt (New Edition)
+314,Ray-Ban Aviator Sunglasses
+315,H&M Cotton Shirt
+316,Aashirvaad Atta 10kg
+317,Puma Casual Sneakers
+318,Redmi Note 12
+319,Nike Running Shoes
+320,Adibas Sports T-Shirt (New Edition)
+321,Organic Basmati Rice 5kg
+322,Zara Women's Jacket
+323,Amul Butter 500g (New Edition)
+324,Organic Basmati Rice 5kg
+325,Adibas Sports T-Shirt
+326,Samzung Galaxy S21
+327,Adibas Sports T-Shirt
+328,Zara Women's Jacket
+329,OnePlus 11
+330,Bru  Instant  Coffee  200g
+331,Samsung Galaxy S22 Ultra
+332,Zara Women's Jacket
+333,Sony WH-1000XM5 Headphones
+334,Samzung Galaxy S21
+335,Ray-Ban Aviator Sunglasses (New Edition)
+336,Apple iPhone 13
+337,Apple iPhone 13 (New Edition)
+338,Boat  Rockerz  450
+339,Samzung Galaxy S21 (New Edition)
+340,Samzung Galaxy S21 (New Edition)
+341,Zara Women's Jacket
+342,Nike Running Shoe (New Edition)
+343,Tata Salt 1kg
+344,Redmi Note 12
+345,Samsung  Galaxy  S21
+346,Nescafe Classic Coffee 200g
+347,Samsung Galaxy S21 (New Edition)
+348,Apple iPhone 14 Pro
+349,Tata Salt 1kg (New Edition)
+350,Samsung Galaxy S21 (New Edition)
+351,Fortune Sunflower Oil 1L
+352,Zara Women's Jacket
+353,Redmi Note 12
+354,Organic Basmati Rice 5kg
+355,Nescafe Classic Coffee 200g
+356,Ray-Ban Aviator Sunglasses (New Edition)
+357,Samsung Galaxy S21
+358,Fortune  Sunflower  Oil  1L
+359,Basmati Rice 5 kg (New Edition)
+360,Apple iPhone 14 Pro
+361,Sony WH-1000XM5 Headphones
+362,Basmati Rice 5 kg
+363,Ray-Ban Aviator Sunglasses (New Edition)
+364,H&M  Cotton  Shirt
+365,Basmati Rice 5 kg
+366,Nike Running Shoe (New Edition)
+367,Redmi Note 12
+368,Fortune Sunflower Oill 1L (New Edition)
+369,Nike Running Shoe
+370,Apple iPhone 14 Pro
+371,Samsung Galaxy S22 Ultra
+372,Sony WH-1000XM5 Headphones
+373,Adibas Sports T-Shirt
+374,Nike Running Shoes (New Edition)
+375,Fortune Sunflower Oil 1L
+376,Basmati Rice 5 kg
+377,Sony WH-1000XM5 Headphones
+378,Adibas Sports T-Shirt
+379,Samsung Galaxy S22 Ultra
+380,H&M Cotton Shirt
+381,Samsung Galaxy S21
+382,Zara Women's Jacket
+383,Redmi Note 12 (New Edition)
+384,Zara Women's Jacket
+385,Basmati Rice 5 kg
+386,Redmi Note 12 (New Edition)
+387,Bru Instant Coffee 200g
+388,Puma Casual Sneakers (New Edition)
+389,Apple iPhone 14 Pro (New Edition)
+390,Fortune Sunflower Oil 1L
+391,Organic Basmati Rice 5kg
+392,OnePlus 11 (New Edition)
+393,Fortune Sunflower Oill 1L
+394,Levi's Slim Fit Jeans
+395,Puma Casual Sneakers (New Edition)
+396,Redmi Note 12
+397,Nike Running Shoe
+398,Nike Running Shoes
+399,OnePlus 11
+400,Amul  Butter  500g
+401,Fortune Sunflower Oil 1L
+402,Ray-Ban Aviator Sunglasses
+403,Sony WH-1000XM5 Headphones
+404,Organic Basmati Rice 5kg
+405,Redmi Note 12
+406,Adidas Sports T-Shirt
+407,Apple iPhone 14 Pro
+408,Aashirvaad Atta 10kg
+409,Levi's Slim Fit Jeans
+410,Aashirvaad Atta 10kg
+411,Nike Running Shoes
+412,Fortune Sunflower Oil 1L
+413,Levi's Slim Fit Jeans
+414,Apple iPhone 13
+415,Amul Butter 500g
+416,OnePlus 11
+417,Tata Salt 1kg
+418,Nescafe  Classic  Coffee  200g
+419,Basmati Rice 5 kg
+420,Nike Running Shoes
+421,Zara Women's Jacket
+422,Fortune Sunflower Oill 1L
+423,Fortune Sunflower Oil 1L (New Edition)
+424,Zara Women's Jacket (New Edition)
+425,Sony WH-1000XM5 Headphones
+426,Nescafe  Classic  Coffee  200g
+427,Sony WH-1000XM5 Headphones
+428,Nescafe Classic Coffee 200g
+429,Fortune Sunflower Oil 1L
+430,Ray-Ban Aviator Sunglasses
+431,H&M Cotton Shirt
+432,Nike Running Shoes (New Edition)
+433,Fortune Sunflower Oil 1L
+434,Bru Instant Coffee 200g (New Edition)
+435,Sony WH-1000XM5 Headphones
+436,Zara Women's Jacket
+437,Fortune Sunflower Oill 1L
+438,Redmi Note 12
+439,Samsung Galaxy S22 Ultra
+440,OnePlus 11
+441,Fortune  Sunflower  Oil  1L
+442,Nike Running Shoe
+443,Ray-Ban Aviator Sunglasses
+444,Aashirvaad Atta 10kg (New Edition)
+445,Adibas Sports T-Shirt (New Edition)
+446,OnePlus 11
+447,Levi's Slim Fit Jeans
+448,Boat Rockerz 450
+449,Aashirvaad Atta 10kg
+450,Tata Salt 1kg
+451,OnePlus 11
+452,Samsung Galaxy S22 Ultra
+453,Sony WH-1000XM5 Headphones
+454,Zara Women's Jacket (New Edition)
+455,Ray-Ban Aviator Sunglasses
+456,Sony WH-1000XM5 Headphones (New Edition)
+457,Samzung Galaxy S21
+458,Fortune Sunflower Oill 1L
+459,Apple iPhone 14
+460,Puma Casual Sneakers
+461,Tata Salt 1kg
+462,Nike Running Shoes
+463,Apple  iPhone  13
+464,H&M Cotton Shirt
+465,Bru Instant Coffee 200g
+466,Nike Running Shoes
+467,Organic Basmati Rice 5kg
+468,OnePlus 11
+469,Apple iPhone 13
+470,Apple  iPhone  14
+471,Adidas Sports T-Shirt
+472,Boat Rockerz 450
+473,Ray-Ban Aviator Sunglasses (New Edition)
+474,Apple iPhone 14 (New Edition)
+475,Adidas Sports T-Shirt
+476,Nike Running Shoe
+477,Tata Salt 1kg
+478,Zara Women's Jacket (New Edition)
+479,Basmati Rice 5 kg
+480,Fortune Sunflower Oill 1L
+481,Samzung Galaxy S21 (New Edition)
+482,Bru Instant Coffee 200g
+483,Fortune Sunflower Oil 1L
+484,Samzung Galaxy S21 (New Edition)
+485,Tata Salt 1kg (New Edition)
+486,Redmi Note 12
+487,Bru  Instant  Coffee  200g
+488,Tata Salt 1kg
+489,Samsung Galaxy S22 Ultra (New Edition)
+490,Redmi Note 12
+491,Levi's Slim Fit Jeans
+492,OnePlus 11
+493,Adidas Sports T-Shirt
+494,Levi's Slim Fit Jeans (New Edition)
+495,Apple iPhone 14
+496,Redmi Note 12
+497,H&M Cotton Shirt
+498,Samsung Galaxy S22 Ultra
+499,Nike Running Shoe
+500,Aashirvaad  Atta  10kg
